@@ -3,14 +3,14 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalillaatiris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=khalillaatiris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
 </div>
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://th.bing.com/th/id/R.65e3599a7860b3e7a313a0b836f006ac?rik=IGuo7pl7sBq%2bhg&riu=http%3a%2f%2fs3.amazonaws.com%2frapgenius%2fspiral.gif&ehk=UP5poKO1V45afX6AoWg4Ks4302x1EPSbx1DxtlDiYGY%3d&risl=&pid=ImgRaw&r=0)"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"  />
 
 ###
 
