@@ -1,5 +1,5 @@
-## Hi there 
-<h2 align="left">Hi 👋! My name is Khalil and I'm a developer/data scientist, from Morocco</h2>
+## Hi 👋 there 
+<h2 align="left"> My name is Khalil and I'm a developer/data scientist, from Morocco</h2>
 
 ###
 
