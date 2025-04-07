@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <a onclick="window.history.back();" class="back-button">← Back</a>
+        <a onmousedown="history.length == 1 ? this.href = '../index.html' : this.addEventListener('click',()=>{console.log(history.length); window.history.back();})" class="back-button">← Back</a>
         <h2 class="title">khalil's Certifications Gallery</h2>
     </header>
    
